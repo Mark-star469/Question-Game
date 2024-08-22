@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "'HTML' gysgaldylan sözi nämäni aňladýar?",
+            "options": ["HyperText Markup Language", " HighText Machine Language", "HyperTool Multi Language", "HighTech Markup Language"],
+            "answer": "HyperText Markup Language"
+        },
+        {
+            "question": "Haýsy söz «big» sözüniň sinonimi bolup durýar?",
+            "options": ["Tiny", "Large", "Small", "Narrow"],
+            "answer": "Large"
+        },
+        {
+            "question": "Python-da belli bir sanyn kwadratyny bilmek \nüçin aşakdakylaryň haysyny saýlamaly?",
+            "options": ["%", "^", "**", "//"],
+            "answer": "**"
+        },
+        {
+            "question": "«to break the ice» diýen jümle nämäni aňladýar?",
+            "options": ["Söweşe başla", "Buzuň aşagynda ýüzmek", "Kölüň üstünde buzy döwmek", "Gürrüňe başla"],
+            "answer": "Kölüň üstünde buzy döwmek"
+        },
+        {
+            "question": "Pythondaky sanawyň soňuna bir\n zady goşmak üçin haýsy usul ulanylýar?",
+            "options": ["add()", "append()", "insert()", "push()"],
+            "answer": "append()"
+        },
+        {
+            "question": "Pythondaky baglylygy we wirtual şertleri \ndolandyrmak üçin ulanylýan guralyň ady näme?",
+            "options": ["PIP", "NPM", "MAVEN", "GRADLE"],
+            "answer": "PIP"
+        },
+        {
+            "question": "Biziň gün systemamyzda naçe planeta bar?",
+            "options": ["7", "8", "9", "10"],
+            "answer": "8"
+        },
+        {
+            "question": "Pythondaky maglumatlaryň haýsy görnüşi üýtgewsizdir?",
+            "options": ["list()", "set()", "tuple()", "dict()"],
+            "answer": "tuple()"
+        },
+        {
+            "question": "Sözlemtamamlamak üçin dogry sözi saýlaň:\nDespite the heavy rain, they decided to carry ___ with the game.'",
+            "options": ["on", "up", "over", "out"],
+            "answer": "on"
+        },
+        {
+            "question": "Aşakdakylaň haysy söz, sözi dogry tamamlar:\n'She ___ to the market every Saturday'?",
+            "options": ["go", "went", "goes", "going"],
+            "answer": "goes"
+        }
+    ]
+}
